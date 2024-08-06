@@ -6,6 +6,9 @@
     "_brief": [ "应图书馆群友要求编写的抽取随机怪物的coc牌堆，具体数值来源参考7版怪物之锤，若干错漏之处使用了6版怪锤的数据。仅包含神话生物，不包含民俗物种，如有错漏之处欢迎指正。" ],
     "_version": [ "1.0.2" ], 
     "_keys": [ "coc随机怪物" ],
+    "_updateUrls": [
+        "https://github.com/YS-CC/Angela/raw/main/coc%E6%80%AA%E7%89%A9%E7%94%9F%E6%88%90%E7%89%8C%E5%A0%86",
+        "https://mirror.ghproxy.com/https://raw.githubusercontent.com/YS-CC/Angela/main/coc%E6%80%AA%E7%89%A9%E7%94%9F%E6%88%90%E7%89%8C%E5%A0%86"],
     "coc随机怪物":[
       "{阿布霍斯的眷族}",
       "{不可名状誓言的信徒}",
