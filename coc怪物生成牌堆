@@ -8,15 +8,15 @@
   "_version": [ "1.1.3" ], 
   "_keys": [ "COC随机怪物","民俗怪物","野兽"],
   "_updateUrls": [
-      "https://github.com/YS-CC/Angela/raw/main/coc%E6%80%AA%E7%89%A9%E7%94%9F%E6%88%90%E7%89%8C%E5%A0%86",
-      "https://mirror.ghproxy.com/https://raw.githubusercontent.com/YS-CC/Angela/main/coc%E6%80%AA%E7%89%A9%E7%94%9F%E6%88%90%E7%89%8C%E5%A0%86"],
+      "https://raw.githubusercontent.com/YS-CC/Angela/refs/heads/main/coc怪物生成牌堆",
+      "https://ghp.ci/https://raw.githubusercontent.com/YS-CC/Angela/refs/heads/main/coc%E6%80%AA%E7%89%A9%E7%94%9F%E6%88%90%E7%89%8C%E5%A0%86"],
+  "COC随机怪物":[
+    "{coc随机怪物}"
+  ],
   "COC怪物生成":[
     "{coc随机怪物}"
   ],
   "coc怪物生成":[
-    "{coc随机怪物}"
-  ],
-  "COC随机怪物":[
     "{coc随机怪物}"
   ],
   "coc随机怪物":[
